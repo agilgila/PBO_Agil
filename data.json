@@ -1,0 +1,26 @@
+[
+    {
+        "id": "673abd32257ae",
+        "nama": "Kaos Kaki",
+        "harga": "15000",
+        "stok": "100"
+    },
+    {
+        "id": "673bde5ebd96a",
+        "nama": "Celana",
+        "harga": "25000",
+        "stok": "100"
+    },
+    {
+        "id": "673be1fbf12a8",
+        "nama": "Baju",
+        "harga": "15000",
+        "stok": "10"
+    },
+    {
+        "id": "67568203d425b",
+        "nama": "Gelas",
+        "harga": "30000",
+        "stok": "50"
+    }
+]
